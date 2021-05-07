@@ -1,10 +1,14 @@
 # arrange
-
-with open(".\day01\lol\sample.txt", "r") as file:
+reports = []
+with open(".\day01\lol\data.txt", "r") as file:
     for line in file:
-        print (line)
-# act
+        reports.append(int(line))
 
+reports.sort()
+
+# act
+for r in reports:
+    print (r)
 # assert
 
 
