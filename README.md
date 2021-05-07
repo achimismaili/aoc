@@ -1,5 +1,13 @@
 # Advent of Code learning challenge
 
+## recommended basics
+
+* manage your secrets, passwords and credentials in a tool, e.g. <lastpass.com>
+* use a modern, secure browser, e.g. Firefox, Brave, Google Chrome or (new) Edge
+  * If you are doing web development, install all of them
+* Install [node.js](https://nodejs.org/en/download/) for many dvelopment efforts, especially JavaScript development, if you want to be flexible to switch versions, get [Node.js version manager for Windows](https://github.com/coreybutler/nvm-windows)
+* Join the [Microsoft Developer Program](http://developer.microsoft.com/) and install [Visual Studio](https://visualstudio.microsoft.com/vs/)
+
 ## onboarding (Windows)
 
 * Ensure you have installed [Git for Windows](https://gitforwindows.org/)
@@ -32,6 +40,7 @@ Verify, everything is working
 * If time is left, 
   * resolve day 01 puzzle
   * get some useful vs code extensions (<https://x-team.com/blog/best-vscode-extensions/>)
+  * sync vs code settings
 
 ### future topics    
 
